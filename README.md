@@ -1,4 +1,4 @@
-# Pollster App (Django Crash Course)
+# Poll App 
 
 > Python Django app to create polls with questions/choices
 
